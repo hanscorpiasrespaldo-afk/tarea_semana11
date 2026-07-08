@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base de datos para guardar de manera ordenada la información de las causas y los apoyos.
+La autenticación de usuarios permite identificar quién participa y proteger acciones importantes dentro del sistema.
+También ayuda a evitar que personas no autorizadas modifiquen o consulten datos sensibles.
+La protección de información es esencial para cuidar la privacidad de la comunidad y fortalecer la confianza en la plataforma.
+Cuando los datos están bien organizados y protegidos, la plataforma puede crecer de forma segura.
+Además, la trazabilidad facilita revisar quién realizó cada acción y mantener un mejor control del sistema.
+Esto mejora la calidad del servicio y la responsabilidad digital de la organización.
+Una plataforma confiable incentiva más participación y genera un entorno más seguro para todos.
